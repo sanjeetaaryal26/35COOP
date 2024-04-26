@@ -60,6 +60,7 @@ public class SwitchCase {
             case 7:
               System.out.println("Sturday");
               break;
+              
         }
     }
 }
