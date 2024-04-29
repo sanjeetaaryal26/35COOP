@@ -40,7 +40,7 @@ public class SwitchCase {
           int weekday = 3;
         switch(weekday){
             case 1:
-              System.out.println("Sunday")
+              System.out.println("Sunday");
               break;
             case 2:
               System.out.println("Monday");
